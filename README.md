@@ -1,10 +1,6 @@
-
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
-
   <h3 align="center">Javascript DataStructures & Algorithms</h3>
-
+</p>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -18,7 +14,7 @@
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of Javascript datastructures and Algorithms - useful for any interviews.
+Use this space to show useful examples of Javascript datastructures and Algorithms for any interviews.
 
 <!-- CONTRIBUTING -->
 ## Contributing
